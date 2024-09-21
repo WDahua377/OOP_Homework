@@ -14,7 +14,8 @@ class Time{
     Time();
     Time(int s);
     Time(int d,int h, int m, int s);
-    void display() const;
+    // void display() const;
+    void Time::normalize();
     Time operator+( Time &other );
     Time operator-( Time &other );
     bool operator!=( const Time &other ) const;
