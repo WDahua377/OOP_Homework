@@ -1,4 +1,6 @@
 ### 中正大學資工系選修課程 Object-Oriented Programming 的六次作業
+本課程著重於介紹物件導向設計的概念，並使用 JAVA 實作簡易程式。
+
 1. AverageCalculator：讀取輸入並計算平均
    * 熟悉 OOP 語言：C++, java, Python
 
