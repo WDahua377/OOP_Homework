@@ -11,6 +11,7 @@
    * 學習建立 class 與 constructor
    * 在 constuctor 中對變數進行基本處理
    * 使用多個 inline 函數提高效能
+   * 貪婪演算法
 
 4. Grid：模擬可進行互動的平面網格
    * 撰寫 header file
@@ -21,6 +22,6 @@
    * 一次 overloads 的練習
 
 6. Blackjack：模擬撲克牌遊戲 Blackjack（21 點）
-   * 分出多種 class 並學習讓 class 之間的資訊互通
+   * 多類別協作，分出多種 class 並學習讓 class 之間的資訊互通
    * 學習繼承（Inheritance），`Human`、`Meek`、`Random`和`Dealer`皆是繼承`Player`
    * virtual function 與 overriding：學習 overriding，在 sub class 中定義了各自的`strategy()`
